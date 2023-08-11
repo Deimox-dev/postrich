@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/postrich/static/css/main.76c5665b.css",
+    "main.js": "/postrich/static/js/main.a03f6c81.js",
+    "static/media/roboto-v20-latin-ext_latin-700.woff": "/postrich/static/media/roboto-v20-latin-ext_latin-700.8aba6dc5d991e4367d7a.woff",
+    "static/media/roboto-v20-latin-ext_latin-500.woff": "/postrich/static/media/roboto-v20-latin-ext_latin-500.e492ac63197a57e7f4d3.woff",
+    "static/media/roboto-v20-latin-ext_latin-regular.woff": "/postrich/static/media/roboto-v20-latin-ext_latin-regular.ae804dc012b1b5255474.woff",
+    "static/media/roboto-v20-latin-ext_latin-500.woff2": "/postrich/static/media/roboto-v20-latin-ext_latin-500.0b45721325446d537b54.woff2",
+    "static/media/roboto-v20-latin-ext_latin-700.woff2": "/postrich/static/media/roboto-v20-latin-ext_latin-700.1d1ef7788f0ff084b881.woff2",
+    "static/media/roboto-v20-latin-ext_latin-regular.woff2": "/postrich/static/media/roboto-v20-latin-ext_latin-regular.5cb5c8f08bb4e6cb64c3.woff2",
+    "index.html": "/postrich/index.html",
+    "main.76c5665b.css.map": "/postrich/static/css/main.76c5665b.css.map",
+    "main.a03f6c81.js.map": "/postrich/static/js/main.a03f6c81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76c5665b.css",
+    "static/js/main.a03f6c81.js"
+  ]
+}
