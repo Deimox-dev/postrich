@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/postrich/static/css/main.579e0eee.css",
-    "main.js": "/postrich/static/js/main.a07dc618.js",
+    "main.css": "/postrich/static/css/main.4073fe2f.css",
+    "main.js": "/postrich/static/js/main.edf22d21.js",
     "static/media/primeicons.svg": "/postrich/static/media/primeicons.e1441b135b3ca9ad643c.svg",
     "static/media/primeicons.eot": "/postrich/static/media/primeicons.d44157bdfa026dc877af.eot",
     "static/media/primeicons.woff": "/postrich/static/media/primeicons.10d3152104f2208ac82a.woff",
@@ -15,11 +15,11 @@
     "static/media/roboto-v20-latin-ext_latin-regular.woff2": "/postrich/static/media/roboto-v20-latin-ext_latin-regular.5cb5c8f08bb4e6cb64c3.woff2",
     "static/media/color.png": "/postrich/static/media/color.6441e63a57ccc5105bad.png",
     "index.html": "/postrich/index.html",
-    "main.579e0eee.css.map": "/postrich/static/css/main.579e0eee.css.map",
-    "main.a07dc618.js.map": "/postrich/static/js/main.a07dc618.js.map"
+    "main.4073fe2f.css.map": "/postrich/static/css/main.4073fe2f.css.map",
+    "main.edf22d21.js.map": "/postrich/static/js/main.edf22d21.js.map"
   },
   "entrypoints": [
-    "static/css/main.579e0eee.css",
-    "static/js/main.a07dc618.js"
+    "static/css/main.4073fe2f.css",
+    "static/js/main.edf22d21.js"
   ]
 }
